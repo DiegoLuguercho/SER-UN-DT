@@ -1,0 +1,197 @@
+Agustin Rossi
+23
+Arquero
+1
+Apto
+s
+Carlos Lampe
+31
+Arquero
+13
+Apto
+s
+Esteban Andrada
+27
+Arquero 
+31
+Apto
+s
+Javier Bustillos
+21
+Arquero
+25
+Apto
+s
+Manuel Roffo
+18
+Arquero
+28
+Apto
+s
+Federico Abadia
+19
+Arquero
+35
+Apto
+s
+Paolo Goltz
+33
+Defensor
+2
+Apto
+s
+Emmanuel Mas
+29
+Defensor
+3
+Apto
+s
+Julio Buffarini
+30
+Defensor
+4
+Apto
+s
+Lisandro Magallan
+25
+Defensor
+6
+Apto
+s
+Gino Peruzzi
+26
+Defensor
+14
+Apto
+s
+Frank Fabra
+27
+Defensor
+18
+Apto
+s
+Lucas Olaza
+24
+Defensor
+20
+Apto
+s
+Agustin Heredia
+21
+Defensor
+21
+Apto
+s
+Carlos Izquierdoz
+29
+Defensor
+24
+Apto
+s
+Leonardo Balerdi
+19
+Defensor 
+26
+Apto
+s
+Leonardo Jara
+27
+Defensor
+29
+Apto
+s
+Fernango Gago
+32
+Mediocampista
+5
+Apto
+s
+Pablo Perez
+33
+Mediocampista
+8
+Apto
+s
+Edwin Cardona
+25
+Mediocampista
+10
+Apto
+s
+Nahitan Nandez
+22
+Mediocampista
+15
+Apto
+s
+Wilmar Barrios
+25
+Mediocampista
+16
+Apto
+s
+Emanuel Reynoso
+22
+Mediocampista
+30
+Apto
+s
+Gonzalo Lamardo
+21
+Mediocampista
+33
+Apto
+s
+Agustin Almendra
+18
+Mediocampista
+39
+Apto
+s
+Julian Chico
+20
+Mediocampista
+40
+Apto
+s
+Cristian Pavon
+22
+Delantero
+7
+Apto
+s
+Dario Benedetto
+28
+Delantero
+9
+Apto
+s
+Cristian Espinoza
+23
+Delantero
+11
+Apto
+s
+Ramon Abila
+29
+Delantero
+17
+Apto
+s
+Mauro Zarate
+31
+Delantero
+19
+Apto
+s
+Sebastian Villa
+22
+Delantero
+22
+Apto
+s
+Carlos Tevez
+34
+Delantero
+32
+Apto
